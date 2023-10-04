@@ -4,3 +4,6 @@ backgroundColor="#29155b"
 secondaryBackgroundColor="#4d2da1"
 textColor="#ffffff"
 font="sans serif"
+
+[browser]
+gatherUsageStats = false
